@@ -1,6 +1,6 @@
 # LVM2 Lab
 
-> 實作者 : Wan Pei Chih \<davidwan58@gmail.com\>
+> 實作者 : Wan Pei Chih 
 
 
 
